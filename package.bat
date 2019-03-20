@@ -1,0 +1,1 @@
+pyinstaller  -F -i .\res\folder.ico -w gsexplorer.py --hidden-import numpy.core._dtype_ctypes --hidden-import multiprocessing
