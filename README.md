@@ -8,3 +8,7 @@ A tool that can protect important files with a password.
    Python 3.6 +
    wxPython 
    pyCryptodome
+ 
+  
+(3) Package
+   PyInstaller
